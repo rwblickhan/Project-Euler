@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class SumSquareDifference {
 	public static void main(String[] args) {
+		//Sets given for the problem
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Please enter the bound: ");
 		int bound = Integer.parseInt(scanner.next());
